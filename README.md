@@ -10,7 +10,7 @@ The goal of the project is to make payments accessible, lightweight, and easy to
 
 - QR code payments for instant transactions  
 - Payment links for remote payments
-- Life notifications
+- Live notifications
 - No card machines required  
 - Simple and fast payment creation flow  
 - Customer and payment management  
