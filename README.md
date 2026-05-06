@@ -78,4 +78,4 @@ The full production source code is private.
 
 ## 🌐 Live
 
-[(Add link...)](https://youtu.be/hpTxFlSw7G8)
+https://youtu.be/hpTxFlSw7G8
